@@ -1,0 +1,7 @@
+Create a repo in github
+git remote add origin https://github.com/Priyanka-AshokH/redux-toolkit-learning.git
+git branch -M main
+git push -u origin main
+If you face issue in push --> git config –global credential.helper manager-core
+you will be asked to enter the password 
+allow it den you should be able to push
